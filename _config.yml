@@ -61,10 +61,10 @@ content:
         link: https://openreview.net/forum?id=LmUJqB1Cz8
         link_text: Link
         quote: >
-          Deunsol Yoon*, Sunghoon Hong*, Byung-Jun Lee, Kee-Eung Kim (*: Equal Contribution)
+          Deunsol Yoon*, <strong>Sunghoon Hong*</strong>, Byung-Jun Lee, Kee-Eung Kim (*: Equal Contribution)
         description: | # this will include new lines to allow paragraphs
-          Published in ICLR 2021 as a spotlight presentation (~5%)  
-          ![Poster](images/smaac.png)
+          <div style="font-size:200%; text-align:center;">Published in ICLR 2021 as a spotlight presentation (~5%)</div>
+          ![Poster](images/smaac.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
   - title: Awards & Honors # Title for the section
     layout: list # Type of content section (list/text)
@@ -77,8 +77,8 @@ content:
         quote: >
           International competition of power netwrok management via Reinforcement Learning held by RTE France.
         description: | # this will include new lines to allow paragraphs
-            1st place  
-            ![Certificate](images/l2rpn_certificate.jpg)
+          <div style="font-size:200%; text-align:center;">1st place</div>  
+          ![Certificate](images/l2rpn_certificate.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
