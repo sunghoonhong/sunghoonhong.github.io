@@ -1,0 +1,137 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: facespics
+github_username:  sproogen
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: jameswgrant
+linkedin_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Sunghoon Hong and I'm a Master Candidate in KAIST AI. I'm interested in Deep Reinforcement Learning and Applied Machine Learning.
+
+  I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
+
+content:
+  - title: Publication # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Winning the L2RPN Challenge; Power Grid Management via Semi-Markov Afterstate Actor-Critic
+        link: https://openreview.net/forum?id=LmUJqB1Cz8
+        # link_text: Project Website
+        quote: >
+          Deunsol Yoon*, Sunghoon Hong*, Byung-Jun Lee, Kee-Eung Kim (*: Equal Contribution)
+        description: | # this will include new lines to allow paragraphs
+          Published in ICLR 2021 as a spotlight presentation (~5%)
+
+  - title: Awards & Honors # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Learning to Run a Power Network (L2RPN) WCCI Challenge
+        link: https://news.kaist.ac.kr/news/html/news/?mode=V&mng_no=9191
+        # link_text: boringcompany.com
+        caption: 2020
+        quote: >
+          International competition of power netwrok management via Reinforcement Learning held by RTE France.
+        description: | # this will include new lines to allow paragraphs
+            1st place
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: KAIST
+        caption: 2020 - 2022
+        sub_title: M.S. in Graduate School of AI
+        quote: >
+          Daejeon, Republic of Korea, Korea Advanced Institute of Science and Technology.
+        description: | # this will include new lines to allow paragraphs
+          I studied Machine Learning and researched in Deep Reinforcement Learning, advised by Kee-Eung Kim.
+
+      - layout: left
+        title: Yonsei University
+        caption: 2014 - 2020
+        sub_title: B.S. in Computer Science
+        quote: >
+          Seoul, Republic of Korea.
+        description: | # this will include new lines to allow paragraphs
+          I studied Computer Science.
+
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in ML, some of my other interests and hobbies are:
+  #     - Gaming
+
+  #     Look at this cool image  
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Seoul Metropolitan Police
+        link: https://en.wikipedia.org/wiki/Seoul_Metropolitan_Police_Agency
+        # link_text: boringcompany.com
+        sub_title: Auxiliary Policy
+        caption: 2016.09 - 2018.06
+        quote: >
+          Served as an alternative to military service in Korea.
+        description: | # this will include new lines to allow paragraphs
+            After basic military training and police training for 1 month each, I worked as a crime prevention patrol at Yangcheon police station in Seoul.
+            Besides, I performed tasks such as assembly and demonstration management and security of important facilities.
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
