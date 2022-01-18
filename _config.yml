@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic
+        title: Winning the L2RPN Challenge*:* Power Grid Management via Semi-Markov Afterstate Actor-Critic
         link: https://openreview.net/forum?id=LmUJqB1Cz8
         link_text: Link
         quote: >
@@ -90,6 +90,7 @@ content:
           Daejeon, Republic of Korea, Korea Advanced Institute of Science and Technology.
         description: | # this will include new lines to allow paragraphs
           I studied Machine Learning and researched in Deep Reinforcement Learning, advised by Kee-Eung Kim.
+          ![Certificate](images/l2rpn_certificate.jpg)
 
       - layout: left
         title: Yonsei University
