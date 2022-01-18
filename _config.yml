@@ -90,7 +90,7 @@ content:
         quote: >
           Daejeon, Republic of Korea, Korea Advanced Institute of Science and Technology.
         description: | # this will include new lines to allow paragraphs
-          I studied Machine Learning and researched in Deep Reinforcement Learning, advised by Kee-Eung Kim.
+          I studied Machine Learning and researched in Deep Reinforcement Learning, advised by Prof. Kee-Eung Kim.
           
       - layout: left
         title: Yonsei University
@@ -115,7 +115,7 @@ content:
       - layout: left
         title: Seoul Metropolitan Police
         # link_text: boringcompany.com
-        sub_title: Auxiliary Policy
+        sub_title: Auxiliary Police
         caption: 2016.09 - 2018.06
         quote: >
           Served as an alternative to military service in Korea.
