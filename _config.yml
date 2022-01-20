@@ -57,6 +57,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning
+        link: https://openreview.net/forum?id=fy_XRVHqly
+        link_text: Link
+        quote: >
+          <strong>Sunghoon Hong</strong>, Deunsol Yoon, Kee-Eung Kim
+        description: | # this will include new lines to allow paragraphs
+          <div style="font-size:200%; text-align:center;">Published in ICLR 2022</div>
+          ![Poster](images/swat.png){:style="display:block; margin-left:auto; margin-right:auto"}
+      - layout: top-middle
         title: Winning the L2RPN Challenge*:* Power Grid Management via Semi-Markov Afterstate Actor-Critic
         link: https://openreview.net/forum?id=LmUJqB1Cz8
         link_text: Link
