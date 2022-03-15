@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Sunghoon Hong
-title: Master Candidate @ KAIST
+title: Applied Scientist @ LG AI Research
 email: shhong01@kaist.ac.kr
 website: github.com/sunghoonhong
 
@@ -48,7 +48,7 @@ linkedin_username: sunghoon-hong-032255193
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Sunghoon Hong and I'm a Master Candidate in KAIST AI. I'm interested in Deep Reinforcement Learning and Applied Machine Learning.
+  Hi, my name is Sunghoon Hong and I'm a Applied Scientist in LG AI Research. I'm interested in Deep Reinforcement Learning and Applied Machine Learning.
 
   I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
@@ -64,7 +64,7 @@ content:
           <strong>Sunghoon Hong</strong>, Deunsol Yoon, Kee-Eung Kim
         description: | # this will include new lines to allow paragraphs
           <div style="font-size:200%; text-align:center;">Published in ICLR 2022</div>
-          ![Poster](images/swat.png){:style="display:block; margin-left:auto; margin-right:auto"}
+        # ![Poster](images/swat.png){:style="display:block; margin-left:auto; margin-right:auto"}
       - layout: top-middle
         title: Winning the L2RPN Challenge*:* Power Grid Management via Semi-Markov Afterstate Actor-Critic
         link: https://openreview.net/forum?id=LmUJqB1Cz8
@@ -73,7 +73,7 @@ content:
           Deunsol Yoon*, <strong>Sunghoon Hong*</strong>, Byung-Jun Lee, Kee-Eung Kim (*: Equal Contribution)
         description: | # this will include new lines to allow paragraphs
           <div style="font-size:200%; text-align:center;">Published in ICLR 2021 as a spotlight presentation (~5%)</div>
-          ![Poster](images/smaac.png){:style="display:block; margin-left:auto; margin-right:auto"}
+        # ![Poster](images/smaac.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
   - title: Awards & Honors # Title for the section
     layout: list # Type of content section (list/text)
@@ -121,6 +121,15 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: LG AI Research
+        # link_text: boringcompany.com
+        sub_title: Applied Scientist
+        caption: 2022.03 - Present
+        quote: >
+          Seoul, Republic of Korea
+        description: | # this will include new lines to allow paragraphs
+            I'm working as an Applied Scientist at LG AI Research.
       - layout: left
         title: Seoul Metropolitan Police
         # link_text: boringcompany.com
