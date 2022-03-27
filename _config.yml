@@ -48,7 +48,7 @@ linkedin_username: sunghoon-hong-032255193
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Sunghoon Hong and I'm a Applied Scientist in LG AI Research. I'm interested in Deep Reinforcement Learning and Applied Machine Learning.
+  Hi, my name is Sunghoon Hong and I'm an AI Applied Scientist in LG AI Research. I'm interested in Deep Reinforcement Learning and Applied Machine Learning.
 
   I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
