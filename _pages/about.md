@@ -23,7 +23,7 @@ I specialize in **Deep Reinforcement Learning (DRL)** and **Multi-Agent Reinforc
 
 Below are my featured publications. The complete list of papers can be found on the **[Publications](/publications/)** page.
 
-{% include publications.html %}
+{% include publication_list.html selected='true' %}
 
 ---
 
