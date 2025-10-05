@@ -4,7 +4,7 @@ title: Home
 permalink: /
 profile:
   align: right
-  image: IMG3024.jpeg
+  image: IMG0324.jpeg
   image_circular: false
   more_info: >
     <p>Seoul, South Korea</p>
