@@ -1,6 +1,10 @@
 ---
-layout: default
+layout: about
 title: Home
+permalink: /
+profile:
+  align: right
+  image: IMG3024.jpeg
 ---
 
 ## About Me
