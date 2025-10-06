@@ -1,0 +1,30 @@
+{% comment %}
+  Custom include to render experience data from _data/experience.yml
+{% endcomment %}
+
+{% if site.data.experience %}
+<div class="experience-section">
+  {% for exp in site.data.experience %}
+  <div class="experience-item mb-4">
+    <h3 class="mb-1">
+      {{ exp.title }}
+      <span class="text-muted" style="font-weight: normal;">
+        — {{ exp.company }}
+      </span>
+    </h3>
+    <p class="small text-muted mb-1">
+      {{ exp.location }} • {{ exp.period }}
+    </p>
+    {% if exp.description %}
+      <ul class="small mb-0">
+        {% for line in exp.description | split: '\n' %}
+          {% unless line == "" %}
+          <li>{{ line | strip }}</li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
