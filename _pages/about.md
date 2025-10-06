@@ -21,12 +21,9 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
-
+  limit: 5 # leave blank to include all the blog posts
 
 ---
-
-## About Me
 
 Hi, I'm **Sunghoon Hong, an Applied Scientist** at **LG AI Research**.
 
@@ -34,17 +31,10 @@ I specialize in **Deep Reinforcement Learning (DRL)** and **Multi-Agent Reinforc
 
 <br>
 
+
+## Career
+{% include experience.html %}
 ## Career
 
-### Applied Scientist @ LG AI Research
-* **Period:** 2022.03 – Present
-* **Role:** R&D in Deep Reinforcement Learning and Applied Machine Learning.
-
-### M.S. in AI @ KAIST (Korea Advanced Institute of Science and Technology)
-* **Period:** 2020 – 2022
-* **Advisor:** Prof. Kee-Eung Kim
-* **Research Focus:** Deep Reinforcement Learning, Graph Neural Networks.
-
-### B.S. in Computer Science @ Yonsei University
-* **Period:** 2014 – 2020 (2 years for military service)
-* **Major:** Computer Science
+## Education
+{% include education.html %}
