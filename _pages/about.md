@@ -9,7 +9,7 @@ profile:
   more_info: >
     <p>Seoul, South Korea</p>
 
-
+education: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -34,7 +34,3 @@ I specialize in **Deep Reinforcement Learning (DRL)** and **Multi-Agent Reinforc
 
 ## Career
 {% include experience.html %}
-## Career
-
-## Education
-{% include education.html %}
