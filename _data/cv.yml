@@ -11,13 +11,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: MS
+    - title: M.S.
       institution: Korea Advanced Insitute of Science and Technology, Seoul, Korea
       year: 2020 - 2022
       description:
         - Advised by Prof. Kee-Eung Kim
         - Reseach on Deep Reinforcement Learning
-    - title: BS
+    - title: B.S.
       institution: Yonsei University, Seoul, Korea
       year: 2014 - 2020
       description:
@@ -27,12 +27,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: AI Scientist
+    - title: Research Scientist
       institution: LG AI Research
       year: 2022 - Present
       description:
-        - Reinforcement learning for petrochemical plant scheduling optimization (honored to receive 2025 LG Awards)
-        - Cominatorial optimization for circuit design
+        - Conducting research on Physical AI
+        - Developed reinforcement learning methods for petrochemical plant scheduling optimization (recognized with the 2025 LG Award)
+        - Proposed combinatorial optimization approaches for circuit design
 
 - title: Honors and Awards
   type: time_table
@@ -52,11 +53,15 @@
   contents:
     - title: Deep Reinforcement Learning
       items:
-        - Offline-to-Online Reinforcment Learning
         - Environment Design & Shaping
+        - Offline-to-Online Reinforcment Learning
         - Search-Guided Reinforcement Learning
+    - title: Vision-Language-Action Model
+      items:
+        - VLAs for Robotics
+        
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Swimming, etc.
+    - <u>Hobbies:</u> swimming and working out, etc.
