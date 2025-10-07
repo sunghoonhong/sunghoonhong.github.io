@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First ICLR paper accepted as co-first author (Spotlight)
+First paper accepted as co-first author at ICLR 2021 (Spotlight)
