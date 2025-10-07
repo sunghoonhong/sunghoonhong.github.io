@@ -75,14 +75,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-earned-a-bachelor-s-degree-in-computer-science-from-yonsei-university",
+            },},{id: "news-earned-a-bachelor-s-degree-in-computer-science-from-yonsei-university",
           title: 'Earned a Bachelor’s degree in Computer Science from Yonsei University.',
           description: "",
           section: "News",},{id: "news-admitted-to-kaist-graduate-school-of-ai-and-joined-aipr-lab-advisor-kee-eung-kim",
           title: 'Admitted to KAIST Graduate School of AI and joined AIPR Lab (Advisor: Kee-Eung...',
+          description: "",
+          section: "News",},{id: "news-won-1st-place-in-the-learning-to-run-a-power-network-l2rpn-wcci-2020-challenge-with-the-kaist-team",
+          title: 'Won 1st place in the Learning to Run a Power Network (L2RPN) WCCI...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
