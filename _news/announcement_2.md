@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Admitted to KAIST Graduate School of AI and joined AIPR Lab (Advisor: Kee-Eung Kim)
-
----
