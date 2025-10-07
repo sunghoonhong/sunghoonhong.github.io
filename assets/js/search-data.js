@@ -75,16 +75,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-earned-a-bachelor-s-degree-in-computer-science-from-yonsei-university",
           title: 'Earned a Bachelor’s degree in Computer Science from Yonsei University.',
+          description: "",
+          section: "News",},{id: "news-admitted-to-kaist-graduate-school-of-ai-and-joined-aipr-lab-advisor-kee-eung-kim",
+          title: 'Admitted to KAIST Graduate School of AI and joined AIPR Lab (Advisor: Kee-Eung...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
