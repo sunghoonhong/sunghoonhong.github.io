@@ -4,7 +4,7 @@ title: "Hello, World!"
 description: "The very first post on my personal research website."
 date: 2025-10-07
 tags: [announcement, website]
-thumbnail: /assets/img/posts/hello-world-thumb.jpg
+thumbnail: /assets/img/hello-world-thumb.png
 ---
 
 After setting up the **al-folio** Jekyll theme, this site is finally live!
