@@ -17,9 +17,9 @@
     </p>
     {% if exp.description %}
       <ul class="small mb-0">
-        {% for line in exp.description | split: '\n' %}
+        {% for line in exp.description %}
           {% unless line == "" %}
-          <li>{{ line | strip }}</li>
+          <li>{{ line }}</li>
           {% endunless %}
         {% endfor %}
       </ul>
