@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-07-20 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Won 1st place in the Learning to Run a Power Network (L2RPN) WCCI 2020 Challenge with the KAIST team
