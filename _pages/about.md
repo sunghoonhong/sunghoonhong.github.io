@@ -25,7 +25,7 @@ latest_posts:
 
 ---
 
-Hi, I'm **Sunghoon Hong, an Applied Scientist** at **LG AI Research**.
+Hi, I'm **Sunghoon Hong, an Applied Research Scientist** at **LG AI Research**.
 
 I specialize in **Deep Reinforcement Learning (DRL)** and **Multi-Agent Reinforcement Learning (MARL)**. My research focuses on **Physical AI**, developing advanced AI models to solve complex optimization and control problems in real-world industrial environments, such as manufacturing plant and robotics.
 
