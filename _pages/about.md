@@ -32,5 +32,5 @@ I specialize in **Deep Reinforcement Learning (DRL)** and **Multi-Agent Reinforc
 <br>
 
 
-## Career
+## career
 {% include experience.html %}
