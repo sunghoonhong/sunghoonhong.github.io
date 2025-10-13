@@ -38,15 +38,15 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2019
+    - year: 2025
       items:
-        - AI Scholarship (Yonsei University)
+        - 2025 LG Awards (LG Corporation)
     - year: 2020
       items:
         - Winner of L2RPN WCCI 2020 Challenge (RTE France)
-    - year: 2025
+    - year: 2019
       items:
-        - 2025 LG Awards (LG Coorporation)
+        - AI Scholarship (Yonsei University)
 
 - title: Academic Interests
   type: nested_list
