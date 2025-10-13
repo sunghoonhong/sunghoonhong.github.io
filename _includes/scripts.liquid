@@ -325,3 +325,15 @@
 {% if site.newsletter.enabled %}
   <script defer src="{{ '/assets/js/newsletter.js' | relative_url | bust_file_cache }}"></script>
 {% endif %}
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const img = document.querySelector('img[alt="Profile photo"], img[alt="Profile picture"]');
+    if (img) {
+      img.addEventListener("load", () => {
+        img.style.opacity = 1;
+      });
+      setTimeout(() => img.style.opacity = 1, 3000);
+    }
+  });
+</script>
