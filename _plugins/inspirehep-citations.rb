@@ -35,12 +35,12 @@ module Jekyll
         # puts "API Response: #{data.inspect}"
 
         # Extract citation count from the JSON data
-        citation_count = data["hits"]["hits"][0]["metadata"]["citation_count"].to_i
+        citation_count = data.dig("hits", "hits", 0, "metadata", "citation_count").to_i
 
         # Format the citation count for readability
         citation_count = Helpers.number_to_human(citation_count, format: '%n%u', precision: 2, units: { thousand: 'K', million: 'M', billion: 'B' })
 
-      rescue Exception => e
+      rescue StandardError => e
         # Handle any errors that may occur during fetching
         citation_count = "N/A"
 

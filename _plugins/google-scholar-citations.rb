@@ -54,7 +54,7 @@ module Jekyll
             matches = cited_by_text.match(/Cited by (\d+[,\d]*)/)
 
             if matches
-              citation_count = matches[1].sub(",", "").to_i
+              citation_count = matches[1].gsub(",", "").to_i
             end
 
           elsif !og_description_meta.empty?
@@ -62,13 +62,13 @@ module Jekyll
             matches = cited_by_text.match(/Cited by (\d+[,\d]*)/)
 
             if matches
-              citation_count = matches[1].sub(",", "").to_i
+              citation_count = matches[1].gsub(",", "").to_i
             end
           end
 
         citation_count = Helpers.number_to_human(citation_count, :format => '%n%u', :precision => 2, :units => { :thousand => 'K', :million => 'M', :billion => 'B' })
 
-      rescue Exception => e
+      rescue StandardError => e
         # Handle any errors that may occur during fetching
         citation_count = "N/A"
 
