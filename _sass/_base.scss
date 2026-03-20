@@ -384,15 +384,36 @@ ul.task-list input[type="checkbox"] {
 }
 
 #light-toggle,
-#search-toggle {
+#search-toggle,
+#lang-toggle {
   padding: 0;
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
+  font-size: 0.85rem;
+  font-weight: 500;
 
   &:hover {
     color: var(--global-hover-color);
   }
+}
+
+// Language content visibility
+html[data-lang="en"] .lang-ko {
+  display: none !important;
+}
+
+html[data-lang="ko"] .lang-en {
+  display: none !important;
+}
+
+// Lang toggle button: show which language you'll switch TO
+html[data-lang="en"] #lang-toggle-to-en {
+  display: none;
+}
+
+html[data-lang="ko"] #lang-toggle-to-ko {
+  display: none;
 }
 
 // Social (bottom)
