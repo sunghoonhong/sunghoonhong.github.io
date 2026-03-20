@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-hello-world",
+        },{id: "post-lg-ai-research-블로그에-aaai-2026-논문-소개-포스트를-올렸습니다",
+        
+          title: "LG AI Research 블로그에 AAAI 2026 논문 소개 포스트를 올렸습니다",
+        
+        description: "RAPID와 RL-Studio — 산업 자동화와 강화학습 실험 플랫폼",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/aaai2026-rapid-rlstudio/";
+          
+        },
+      },{id: "post-hello-world",
         
           title: "Hello, World!",
         
@@ -39,6 +50,61 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/site-launch/";
+          
+        },
+      },{id: "post-lg-awards-2025-고객만족상-수상",
+        
+          title: "LG Awards 2025 고객만족상 수상",
+        
+        description: "NCC 운영 최적화 AI 스케줄러 개발 프로젝트 — 연구가 현장이 되기까지",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/lg-awards-2025/";
+          
+        },
+      },{id: "post-lg-ai-research-블로그에-aamas-2024-논문-소개-포스트를-올렸습니다",
+        
+          title: "LG AI Research 블로그에 AAMAS 2024 논문 소개 포스트를 올렸습니다",
+        
+        description: "산업 현장 프로젝트에서 출발해 AAMAS 워크샵 논문까지 — Asynchronous MARL 연구 이야기",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/aamas2024-marl/";
+          
+        },
+      },{id: "post-lg-ai-research-블로그에-iclr-2022-논문-소개-포스트를-올렸습니다",
+        
+          title: "LG AI Research 블로그에 ICLR 2022 논문 소개 포스트를 올렸습니다",
+        
+        description: "SWAT: Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/iclr2022-swat/";
+          
+        },
+      },{id: "post-iclr-2022-social-ml-in-korea-참가",
+        
+          title: "ICLR 2022 Social: ML in Korea 참가",
+        
+        description: "국내 머신러닝 연구자들과 함께한 ICLR 2022 소셜 이벤트",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/iclr2022-ml-in-korea/";
+          
+        },
+      },{id: "post-l2rpn-challenge-2020-wcci-1위",
+        
+          title: "L2RPN Challenge 2020 WCCI 1위",
+        
+        description: "그래프 신경망 기반 강화학습으로 전력망을 제어하다",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/l2rpn2020-1st-place/";
           
         },
       },{id: "books-the-godfather",
