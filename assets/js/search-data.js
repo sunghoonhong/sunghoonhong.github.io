@@ -30,53 +30,42 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-lg-ai-research-블로그에-aaai-2026-논문-소개-포스트를-올렸습니다",
+        },{id: "post-published-posts-on-lg-ai-research-blog-introducing-aaai-2026-papers",
         
-          title: "LG AI Research 블로그에 AAAI 2026 논문 소개 포스트를 올렸습니다",
+          title: "Published Posts on LG AI Research Blog Introducing AAAI 2026 Papers",
         
-        description: "RAPID와 RL-Studio — 산업 자동화와 강화학습 실험 플랫폼",
+        description: "RAPID and RL-Studio — industrial automation and RL experimentation platforms",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/aaai2026-rapid-rlstudio/";
           
         },
-      },{id: "post-hello-world",
+      },{id: "post-won-lg-awards-2025-customer-satisfaction-award",
         
-          title: "Hello, World!",
+          title: "Won LG Awards 2025 Customer Satisfaction Award",
         
-        description: "The very first post on my personal research website.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/site-launch/";
-          
-        },
-      },{id: "post-lg-awards-2025-고객만족상-수상",
-        
-          title: "LG Awards 2025 고객만족상 수상",
-        
-        description: "NCC 운영 최적화 AI 스케줄러 개발 프로젝트 — 연구가 현장이 되기까지",
+        description: "NCC operations optimization AI scheduler — from research to the factory floor",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/lg-awards-2025/";
           
         },
-      },{id: "post-lg-ai-research-블로그에-aamas-2024-논문-소개-포스트를-올렸습니다",
+      },{id: "post-published-a-post-on-lg-ai-research-blog-introducing-aamas-2024-papers",
         
-          title: "LG AI Research 블로그에 AAMAS 2024 논문 소개 포스트를 올렸습니다",
+          title: "Published a Post on LG AI Research Blog Introducing AAMAS 2024 Papers",
         
-        description: "산업 현장 프로젝트에서 출발해 AAMAS 워크샵 논문까지 — Asynchronous MARL 연구 이야기",
+        description: "From industrial project to AAMAS workshop paper — the story of Asynchronous MARL research",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2024/aamas2024-marl/";
           
         },
-      },{id: "post-lg-ai-research-블로그에-iclr-2022-논문-소개-포스트를-올렸습니다",
+      },{id: "post-published-a-post-on-lg-ai-research-blog-introducing-iclr-2022-paper",
         
-          title: "LG AI Research 블로그에 ICLR 2022 논문 소개 포스트를 올렸습니다",
+          title: "Published a Post on LG AI Research Blog Introducing ICLR 2022 Paper",
         
         description: "SWAT: Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning",
         section: "Posts",
@@ -85,22 +74,22 @@ ninja.data = [{
             window.location.href = "/blog/2022/iclr2022-swat/";
           
         },
-      },{id: "post-iclr-2022-social-ml-in-korea-참가",
+      },{id: "post-attended-iclr-2022-social-ml-in-korea",
         
-          title: "ICLR 2022 Social: ML in Korea 참가",
+          title: "Attended ICLR 2022 Social: ML in Korea",
         
-        description: "국내 머신러닝 연구자들과 함께한 ICLR 2022 소셜 이벤트",
+        description: "An ICLR 2022 social event with Korean ML researchers",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2022/iclr2022-ml-in-korea/";
           
         },
-      },{id: "post-l2rpn-challenge-2020-wcci-1위",
+      },{id: "post-1st-place-at-l2rpn-challenge-2020-wcci",
         
-          title: "L2RPN Challenge 2020 WCCI 1위",
+          title: "1st Place at L2RPN Challenge 2020 WCCI",
         
-        description: "그래프 신경망 기반 강화학습으로 전력망을 제어하다",
+        description: "Controlling power grids with GNN-based reinforcement learning",
         section: "Posts",
         handler: () => {
           
