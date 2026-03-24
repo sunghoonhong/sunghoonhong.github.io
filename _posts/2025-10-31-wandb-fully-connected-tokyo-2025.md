@@ -15,6 +15,8 @@ I was invited to [W&B Fully Connected Tokyo 2025](https://wandb.ai/site/resource
 
 Fully Connected is Weights & Biases' annual conference where AI researchers and engineers gather to share how they build, train, and ship models. The 2025 Tokyo edition was held over two days at TODA HALL & CONFERENCE TOKYO — the first time the event ran for two days — and brought together practitioners from across the region.
 
+{% include figure.liquid path="assets/img/wandb_fc_tokyo_badge.jpg" class="img-fluid rounded" alt="W&B Fully Connected 2025 badge" %}
+
 ---
 
 The award is given to the organization that has accumulated the most tracked experiment hours in a commercial setting. To be honest, the number makes sense if you think about how we've been working.
@@ -23,18 +25,11 @@ Since April 2022, our team has been running large-scale multi-agent RL experimen
 
 Receiving this award felt less like a prize and more like a quiet acknowledgment of how seriously the team has taken the research — the kind of care that shows up in obsessive experiment logging more than it does in flashy demos.
 
+{% include figure.liquid path="assets/img/wandb_fc_tokyo_award.jpg" class="img-fluid rounded" alt="Receiving the Longest Tracking Hour in Commercial Use award at W&B Fully Connected Tokyo 2025" %}
+
 ---
 
 Getting to attend Fully Connected in Tokyo was a bonus. The talks and conversations reminded me that the gap between research and production is the most interesting problem in ML right now — and that we've been living inside that gap for years.
-
-<div class="row mt-3">
-  <div class="col-sm-7">
-    {% include figure.liquid path="assets/img/wandb_fc_tokyo_award.jpg" class="img-fluid rounded" alt="Receiving the Longest Tracking Hour in Commercial Use award at W&B Fully Connected Tokyo 2025" %}
-  </div>
-  <div class="col-sm-5">
-    {% include figure.liquid path="assets/img/wandb_fc_tokyo_badge.jpg" class="img-fluid rounded" alt="W&B Fully Connected 2025 badge" %}
-  </div>
-</div>
 
 [W&B Fully Connected Tokyo 2025 →](https://wandb.ai/site/resources/events/fully-connected/tokyo/en/)
 
@@ -46,6 +41,8 @@ Getting to attend Fully Connected in Tokyo was a bonus. The talks and conversati
 
 Fully Connected는 Weights & Biases가 주최하는 연례 컨퍼런스로, AI 연구자와 엔지니어들이 모여 모델을 만들고 훈련하고 배포하는 방식을 나누는 자리입니다. 2025년 도쿄 행사는 TODA HALL & CONFERENCE TOKYO에서 이틀에 걸쳐 열렸는데, 이틀짜리 행사는 이번이 처음이었습니다.
 
+{% include figure.liquid path="assets/img/wandb_fc_tokyo_badge.jpg" class="img-fluid rounded" alt="W&B Fully Connected 2025 배지" %}
+
 ---
 
 이 상은 상업적 환경에서 가장 오랜 시간 실험을 추적해 온 조직에게 주어집니다. 솔직히 숫자만 보면 납득이 됩니다.
@@ -54,18 +51,11 @@ Fully Connected는 Weights & Biases가 주최하는 연례 컨퍼런스로, AI �
 
 이 상을 받으면서, 화려한 데모보다는 꼼꼼한 실험 로깅에서 더 잘 드러나는 팀의 진지함을 인정받은 것 같아 조용히 기뻤습니다.
 
+{% include figure.liquid path="assets/img/wandb_fc_tokyo_award.jpg" class="img-fluid rounded" alt="W&B Fully Connected Tokyo 2025에서 Longest Tracking Hour in Commercial Use 수상" %}
+
 ---
 
 도쿄에서 Fully Connected를 직접 경험한 것도 좋았습니다. 연구와 프로덕션 사이의 간극이 지금 ML에서 가장 흥미로운 문제라는 걸 다시 한번 느꼈고, 저희 팀이 꽤 오랫동안 그 간극 안에서 살아왔다는 것도요.
-
-<div class="row mt-3">
-  <div class="col-sm-7">
-    {% include figure.liquid path="assets/img/wandb_fc_tokyo_award.jpg" class="img-fluid rounded" alt="W&B Fully Connected Tokyo 2025에서 Longest Tracking Hour in Commercial Use 수상" %}
-  </div>
-  <div class="col-sm-5">
-    {% include figure.liquid path="assets/img/wandb_fc_tokyo_badge.jpg" class="img-fluid rounded" alt="W&B Fully Connected 2025 배지" %}
-  </div>
-</div>
 
 [W&B Fully Connected Tokyo 2025 →](https://wandb.ai/site/resources/events/fully-connected/tokyo/en/)
 
