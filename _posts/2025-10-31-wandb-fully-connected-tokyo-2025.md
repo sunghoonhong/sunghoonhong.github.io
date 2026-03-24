@@ -29,7 +29,7 @@ It was a good trip. Not sightseeing — I got to listen to people across the AI 
 
 <div class="lang-ko" markdown="1">
 
-[W&B Fully Connected Tokyo 2025](https://wandb.ai/site/resources/events/fully-connected/tokyo/en/)에 초청받아 **Longest Tracking Hour in Commercial Use** 상을 수상했습니다.
+[W&B Fully Connected Tokyo 2025](https://wandb.ai/site/resources/events/fully-connected/tokyo/en/)에 초청받아 **Longest Tracking Hour in Commercial Use** 상을 수상했다.
 
 {% include figure.liquid path="assets/img/wandb_fc_tokyo_badge.jpg" class="img-fluid rounded" alt="W&B Fully Connected 2025 배지" %}
 
