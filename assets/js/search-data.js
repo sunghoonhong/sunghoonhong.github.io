@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/aaai2026-rapid-rlstudio/";
           
         },
+      },{id: "post-invited-to-w-amp-b-fully-connected-tokyo-2025-longest-tracking-hour-in-commercial-use",
+        
+          title: "Invited to W&amp;B Fully Connected Tokyo 2025 — Longest Tracking Hour in Commercial...",
+        
+        description: "Recognized by Weights &amp; Biases for the longest experiment tracking usage in commercial deployment",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/wandb-fully-connected-tokyo-2025/";
+          
+        },
       },{id: "post-won-lg-awards-2025-customer-satisfaction-award",
         
           title: "Won LG Awards 2025 Customer Satisfaction Award",
