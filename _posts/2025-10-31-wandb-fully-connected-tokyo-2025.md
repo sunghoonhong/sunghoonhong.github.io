@@ -11,7 +11,7 @@ thumbnail: /assets/img/wandb_fc_tokyo_award.jpg
 
 <div class="lang-en" markdown="1">
 
-I was invited to [W&B Fully Connected Tokyo 2025](https://wandb.ai/site/resources/events/fully-connected/tokyo/en/) and received the **Longest Tracking Hour in Commercial Use** award on behalf of LG AI Research.
+I was invited to [W&B Fully Connected Tokyo 2025](https://wandb.ai/site/resources/events/fully-connected/tokyo/en/) and received the **Longest Tracking Hour in Commercial Use** award.
 
 Fully Connected is Weights & Biases' annual conference where AI researchers and engineers gather to share how they build, train, and ship models. The 2025 Tokyo edition was held over two days at TODA HALL & CONFERENCE TOKYO — the first time the event ran for two days — and brought together practitioners from across the region.
 
@@ -37,7 +37,7 @@ Getting to attend Fully Connected in Tokyo was a bonus. The talks and conversati
 
 <div class="lang-ko" markdown="1">
 
-[W&B Fully Connected Tokyo 2025](https://wandb.ai/site/resources/events/fully-connected/tokyo/en/)에 초청받아, LG AI Research를 대표해 **Longest Tracking Hour in Commercial Use** 상을 수상했습니다.
+[W&B Fully Connected Tokyo 2025](https://wandb.ai/site/resources/events/fully-connected/tokyo/en/)에 초청받아 **Longest Tracking Hour in Commercial Use** 상을 수상했습니다.
 
 Fully Connected는 Weights & Biases가 주최하는 연례 컨퍼런스로, AI 연구자와 엔지니어들이 모여 모델을 만들고 훈련하고 배포하는 방식을 나누는 자리입니다. 2025년 도쿄 행사는 TODA HALL & CONFERENCE TOKYO에서 이틀에 걸쳐 열렸는데, 이틀짜리 행사는 이번이 처음이었습니다.
 
