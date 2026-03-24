@@ -21,7 +21,7 @@ W&B is a tool I've genuinely relied on. The more work piled up, the more natural
 
 ---
 
-It was a good trip. Not sightseeing — I got to listen to people across the AI industry talk about what they're actually working on. That kind of conversation is rare, and Tokyo made it feel even more fresh.
+It was a good trip. I've been to quite a few places in Japan — Okinawa, Nagasaki, Fukuoka, Kyoto, Osaka, Sapporo — but somehow never Tokyo. It felt like the obvious one to visit eventually, just never happened. This time it finally did, and through an occasion like this rather than a casual trip. Not sightseeing — I got to listen to people across the AI industry talk about what they're actually working on. That combination made it feel like a genuinely good use of a first visit.
 
 [W&B Fully Connected Tokyo 2025 →](https://wandb.ai/site/resources/events/fully-connected/tokyo/en/)
 
@@ -39,7 +39,7 @@ W&B는 정말 잘 썼던 서비스입니다. 일이 많아질수록 자연스럽
 
 ---
 
-좋은 자리였습니다. 관광이 아니라 AI 업계 사람들이 실제로 어떻게 일하고 있는지 들을 수 있는 자리였는데, 그런 대화가 도쿄라는 공간에서 펼쳐지니 묘하게 신선했습니다.
+일본은 오키나와, 나가사키, 후쿠오카, 교토, 오사카, 삿포로까지 여러 번 다녀왔는데, 도쿄는 가장 가까우면서도 이상하게 한 번도 못 갔던 곳이었습니다. 언젠간 가겠지 싶었는데, 막상 첫 방문이 이런 자리로 이루어지니 더 좋았습니다. 관광이 아니라 AI 업계 사람들이 실제로 어떻게 일하고 있는지 들을 수 있는 자리였고, 그런 대화가 처음 와보는 도쿄에서 펼쳐지니 묘하게 잘 어울렸습니다.
 
 [W&B Fully Connected Tokyo 2025 →](https://wandb.ai/site/resources/events/fully-connected/tokyo/en/)
 
