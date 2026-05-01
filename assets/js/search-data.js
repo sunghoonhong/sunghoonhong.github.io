@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-home",
-    title: "Home",
+    title: "home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -141,6 +141,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-presented-at-ijcai-2025-in-montreal-canada",
           title: 'Presented at IJCAI 2025 in Montreal, Canada',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-at-icml-2026-designing-observation-and-action-models-for-efficient-reinforcement-learning-with-llms",
+          title: 'Paper accepted at ICML 2026 — Designing Observation and Action Models for Efficient...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
